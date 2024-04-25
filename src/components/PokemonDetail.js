@@ -21,6 +21,9 @@ function PokemonDetail({ data }) {
         <Typography.Text style={{ color: "#5a4a9c" }}>
           Hitpoints: {data.hitpoints}
         </Typography.Text>
+        <Typography.Text style={{ color: "#5a4a9c" }}>
+          VitoCarlenG
+        </Typography.Text>
       </Space>
     </div>
   );
